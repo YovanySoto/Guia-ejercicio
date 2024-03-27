@@ -1,0 +1,15 @@
+body{
+    font-family: "Raleway",sans-serif;
+}
+nav {
+    background: #373A3C;
+}
+header{
+    background-image: url('../img/bg-hero.jpg');
+}
+#trabajos{
+    background-color: #17a2b8;
+}
+footer{
+    background-color: black;
+}
